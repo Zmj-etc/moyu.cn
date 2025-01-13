@@ -22,9 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "milkcat.png"
-  name             : "MoYu"
+  name             : "墨鱼"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "路漫修远，上下求索"
   location         : "Qingdao, Shandong"
   employer         : "Harbin Engineer University"
   uri              : # URL
